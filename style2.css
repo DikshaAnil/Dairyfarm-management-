@@ -1,0 +1,118 @@
+.what_offering {
+    background: radial-gradient(50% 50% at 50% 50%, #0b3347 0%, #071625 100%);
+    padding-top: 10px;
+    padding-bottom: 50px;
+    height: 300px;
+
+}
+
+.divBox{
+    
+    border: 1px solid black;
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 0px, 0px, 0px, 0px;
+    background:#1d162d;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(2, 2, 2, 0.87);
+    box-sizing: border-box;
+    color: #fff;
+    margin-right: 10px;
+    margin-left: 50px;
+    margin-top: 20px;
+   
+   
+}
+.divBox1{
+    border: 1px solid black;
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 0px, 0px, 0px, 0px;
+    background:#1d162d;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(2, 2, 2, 0.87);
+    box-sizing: border-box;
+    color: #fff;
+    margin-right: 500px;
+    margin-top: -300px;
+}
+.divBox2{
+    border: 1px solid black;
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 0px, 0px, 0px, 0px;
+    background:#1d162d;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(2, 2, 2, 0.87);
+    box-sizing: border-box;
+    color: #fff;
+    margin-right: 100px;
+    margin-top: -300px;
+}
+.divBox3{
+    border: 1px solid black;
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 0px, 0px, 0px, 0px;
+    background: #1d162d;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(2, 2, 2, 0.87);
+    box-sizing: border-box;
+    color: #fff;
+    margin-left: 50px;
+    margin-top: -50px;
+}
+.divBox4{
+    border: 1px solid black;
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 0px, 0px, 0px, 0px;
+    background:#1d162d;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(2, 2, 2, 0.87);
+    box-sizing: border-box;
+    color: #fff;
+    margin-right: 500px;
+    margin-top: -50px;
+
+}
+.divBox5{
+    border: 1px solid black;
+    max-width: 300px;
+    margin: 30px auto;
+    padding: 0px, 0px, 0px, 0px;
+    background:#1d162d;
+    border-radius: 5px;
+    box-shadow: 0 0 10px rgba(2, 2, 2, 0.87);
+    box-sizing: border-box;
+    color: #fff;
+    margin-right: 100px;
+    margin-top: -50px;
+
+}
+.row{
+    display: flex;
+    width: 100%;
+}
+.image-align{
+    text-decoration: none;
+    color: white;
+    padding: 30px;
+    /* margin-top: -105px; */
+    text-align: center;
+    align-items: center;
+    margin-left: 87px;
+
+}
+.imc{
+    margin-bottom: 22px;
+    text-align: center;
+    align-items: center;
+    margin-left: 1;
+}
+.what_offering{
+    height: 100%;
+    width: 98%;
+    margin: 15px;
+}
+

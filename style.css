@@ -1,0 +1,25 @@
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+}
+.registration{
+    text-align: center;
+    
+}
+.reg {
+    text-align: center;
+    align-items: center;
+    margin-top: -400px;
+    border-radius: 6px;
+}
+input{
+    height: 35px;
+    width: 200px;
+    text-align: center;
+}
+
+.carousel-control-next {
+    right: 50;
+}
