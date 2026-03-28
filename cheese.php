@@ -30,7 +30,7 @@
 <img src="https://www.shutterstock.com/image-vector/set-cheese-parts-slices-isolated-600nw-1910264557.jpg"
 height="300px" width="300px">
 <div class="imagespr imgp" style="background-image: url('bg13.jpeg')">
-               <button> Buy <b> 199/-</b></button>
+               <button> Buy <b> 30rs </b></button>
                <button class="btn2"> <strong><b>add cart</b></strong></button>
             </div>
 </body>
