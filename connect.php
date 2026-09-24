@@ -2,9 +2,9 @@
 $connect = mysqli_connect("localhost","root","","dairyfarm") or die("connection failed");
 
 if ($connect){
-    echo"connected";
+    echo"Connected";
 }
 else{
-  echo "not connected";
+  echo "Not Connected";
 }
 ?>
