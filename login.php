@@ -10,7 +10,7 @@ $dbname = "dairyfarm";
 
 $conn = new mysqli($servername, $username, $password, $dbname);
 
-// Check connection
+// Check connectione
 if ($conn->connect_error) {
     die("Connection failed: " . $conn->connect_error);
 }
@@ -33,7 +33,7 @@ if ($result->num_rows > 0) {
     exit();
 } else {
     // Login failed, show error message
-    echo "Login failed. Invalid mobile number or password.";
+    echo "Login failed. Invalid mobile number or password.please enter valid details";
 }
 
 $stmt->close();
